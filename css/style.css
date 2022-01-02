@@ -1,0 +1,26 @@
+a{
+    color: #7900FF;
+}
+.navbar-brand{
+    color: #7900FF;
+}
+
+.nav-link{
+    color: #548CFF;
+}
+
+.remLine{
+    text-decoration: none;
+}
+
+.main-section{
+    height: 600px;
+    background-color: #7900FF;
+}
+
+.sec1{
+    padding-top: 250px;
+}
+.sec2{
+    margin-top: 50px;
+}
